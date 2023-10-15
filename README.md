@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Discord-purple?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?Aleksey02&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Aleksey02&style=flat-square&color=blue" alt=""/>
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
   <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="1000"/>
 </div>
