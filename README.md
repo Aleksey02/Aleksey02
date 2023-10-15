@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+   <div>
    <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif />
+   </div>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
@@ -28,7 +30,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Discord-purple?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Aleksey02&style=flat-square&color=blue" alt=""/>
+<div>
+     <img src="https://komarev.com/ghpvc/?username=Aleksey02&style=flat-square&color=blue" alt=""/>
+</div>
   <h1>
   hey there 👋
 </h1>
