@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=social&for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 <div id="header" align="center">
