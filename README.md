@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-red?style=plastic&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Discord-purple?style=plastic&logo=discord&logoColor=white" alt="Discord Badge"/>
