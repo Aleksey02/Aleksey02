@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+   <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif />
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
@@ -29,8 +30,7 @@ Here are some ideas to get you started:
 </div>
   <img src="https://komarev.com/ghpvc/?username=Aleksey02&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there 👋
 </h1>
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
   <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="1000"/>
