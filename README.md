@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Aleksey02/Aleksey02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,8 +34,14 @@ Here are some ideas to get you started:
      <img src="https://komarev.com/ghpvc/?username=Aleksey02&style=flat-square&color=blue" alt=""/>
 </div>
   <h1>
-  hey there 👋
+  Hey there! I`m Aleksey 👋
 </h1>
+   <h2>
+      I'm a Frontend developer
+   </h2>
+   
+- 🌱 I’m currently learning **Vue framework**
+
   <!--<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>-->
   <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" width="1000"/>
 </div>
